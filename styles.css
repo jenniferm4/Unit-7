@@ -1,0 +1,17 @@
+body {
+    background-color: #964B00;
+}
+
+img {
+    width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.answer {
+    border: solid 3px #FFFFFF;
+    padding: 5px;
+    text-align: center;
+    display: none;
+}
